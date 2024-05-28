@@ -2,6 +2,8 @@
 
 #define DEBUG 1
 
+#define NMEA_PATH_KEY "wB3-Pl@7"
+
 // Set serial for AT commands (to the module)
 // Use Hardware Serial on Mega, Leonardo, Micro
 #define SerialAT Serial1
