@@ -1,4 +1,4 @@
-#define TINY_GSM_MODEM_SIM7600   //A7608 Compatible with SIM7600 AT instructions
+&#define TINY_GSM_MODEM_SIM7600   //A7608 Compatible with SIM7600 AT instructions
 
 #define DEBUG 1
 
